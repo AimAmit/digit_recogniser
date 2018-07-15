@@ -7,8 +7,8 @@ I've created those sample images on simple paint app.
 First,run train.py to create trained classifier and save it locally, Once trained, use predict.py on sample image to detect.
 
 # Packages required
---python3
-  numpy
-  sklearn
-  scipy
-  _pickle
+--python3  
+  numpy  
+  sklearn  
+  scipy  
+  _pickle  
